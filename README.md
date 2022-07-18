@@ -1,4 +1,4 @@
-# Synchronised-Stack-w-threads
+# Synchronised-Stack-w-Threads
 The goal of this assignment was to make a thread safe stack that supports the commends "PUSH", "POP" and "TOP" with that complexity of O(1).  
 Multiple clients can use the stack (that is on the server) using the standard input.
 
